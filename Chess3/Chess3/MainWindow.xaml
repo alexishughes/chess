@@ -1,0 +1,27 @@
+﻿<Window x:Class="Chess3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New Game" Height="414" Width="545">
+    <Window.Background>
+        <ImageBrush ImageSource="/Chess3;component/Images/glass.jpg" />
+    </Window.Background>
+    <Grid>
+        <Label Content="Player 1 :" Height="28" HorizontalAlignment="Left" Margin="224,16,0,0" Name="lblPlayer1Name" VerticalAlignment="Top" Background="#97FFFFFF" Width="76" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="306,16,0,0" Name="txtPlayer1Name" VerticalAlignment="Top" Width="120" TextChanged="txtPlayer1Name_TextChanged" />
+        <ComboBox Height="28" HorizontalAlignment="Left" Margin="306,50,0,0" Name="cmbPlayer1Handicap" VerticalAlignment="Top" Width="120" SelectionChanged="cmbPlayer1Handicap_SelectionChanged" />
+        <Label Background="#97FFFFFF" Content="Handicap" Height="28" HorizontalAlignment="Left" Margin="224,50,0,0" Name="lblPlayer1Handicap" VerticalAlignment="Top" Width="76" />
+        <ComboBox Height="28" HorizontalAlignment="Left" Margin="306,84,0,0" Name="cmbPlayer1Colour" VerticalAlignment="Top" Width="120" SelectionChanged="cmbPlayer1Colour_SelectionChanged" />
+        <Label Background="#97FFFFFF" Content="Colour" Height="28" HorizontalAlignment="Left" Margin="224,84,0,0" Name="lblPlayer1Colour" VerticalAlignment="Top" Width="76" />
+        <ComboBox Height="28" HorizontalAlignment="Left" Margin="306,118,0,0" Name="cmbPlayer1HuAi" VerticalAlignment="Top" Width="120" SelectionChanged="cmbPlayer1HuAi_SelectionChanged" />
+        <Label Background="#97FFFFFF" Content="Human/AI" Height="28" HorizontalAlignment="Left" Margin="224,118,0,0" Name="lblPlayer1HuAi" VerticalAlignment="Top" Width="76" />
+        <Label Background="#97FFFFFF" Content="Player 2 :" Height="28" HorizontalAlignment="Left" Margin="224,186,0,0" Name="lblPlayer2Name" VerticalAlignment="Top" Width="76" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="306,186,0,0" Name="txtPlayer2Name" VerticalAlignment="Top" Width="120" TextChanged="txtPlayer2Name_TextChanged" />
+        <ComboBox Height="28" HorizontalAlignment="Left" Margin="306,220,0,0" Name="cmbPlayer2Handicap" VerticalAlignment="Top" Width="120" SelectionChanged="cmbPlayer2Handicap_SelectionChanged" />
+        <Label Background="#97FFFFFF" Content="Handicap" Height="28" HorizontalAlignment="Left" Margin="224,220,0,0" Name="lblPlayer2Handicap" VerticalAlignment="Top" Width="76" />
+        <ComboBox Height="28" HorizontalAlignment="Left" Margin="306,254,0,0" Name="cmbPlayer2Colour" VerticalAlignment="Top" Width="120" SelectionChanged="cmbPlayer2Colour_SelectionChanged" />
+        <Label Background="#97FFFFFF" Content="Colour" Height="28" HorizontalAlignment="Left" Margin="224,254,0,0" Name="lblPlayer2Colour" VerticalAlignment="Top" Width="76" />
+        <ComboBox Height="28" HorizontalAlignment="Left" Margin="306,288,0,0" Name="cmbPlayer2HuAi" VerticalAlignment="Top" Width="120" SelectionChanged="cmbPlayer2HuAi_SelectionChanged" />
+        <Label Background="#97FFFFFF" Content="Human/AI" Height="28" HorizontalAlignment="Left" Margin="224,288,0,0" Name="lblPlayer2HuAi" VerticalAlignment="Top" Width="76" />
+        <Button Content="Play" Height="23" HorizontalAlignment="Left" Margin="436,340,0,0" Name="btnPlay" VerticalAlignment="Top" Width="75" Focusable="True" IsEnabled="False" Click="btnPlay_Click" />
+    </Grid>
+</Window>

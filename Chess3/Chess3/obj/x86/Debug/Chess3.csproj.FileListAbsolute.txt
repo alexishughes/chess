@@ -1,0 +1,63 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\bin\Debug\Chess3.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\bin\Debug\Chess3.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\App.g.cs
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\Chess3_MarkupCompile.cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\Chess3.g.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\Chess3.Properties.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\Chess3.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Chess3\obj\x86\Debug\Chess3.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\Chess3.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\Chess3.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\bin\Debug\Chess3.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\bin\Debug\Chess3.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\Chess3_MarkupCompile.cache
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\Chess3.g.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\Chess3.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\GamePlay.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\GamePlay.g.cs
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\wndPromote.baml
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\Chess3\Chess3\obj\x86\Debug\wndPromote.g.cs
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.exe
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.pdb
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\bin\Debug\Chess3.exe
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\bin\Debug\Chess3.pdb
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\GamePlay.baml
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\wndPromote.baml
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\GamePlay.g.cs
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\wndPromote.g.cs
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3_MarkupCompile.cache
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.g.resources
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.Properties.Resources.resources
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Downloads\Chess3\Chess3\Chess3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.exe
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.pdb
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\bin\Debug\Chess3.exe
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\bin\Debug\Chess3.pdb
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.csprojResolveAssemblyReference.cache
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\MainWindow.baml
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\GamePlay.baml
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\wndPromote.baml
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\GamePlay.g.cs
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\wndPromote.g.cs
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\App.g.cs
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3_MarkupCompile.cache
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.g.resources
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.Properties.Resources.resources
+C:\Users\alexi\Downloads\Chess3\Chess3\Chess3\Chess3\obj\x86\Debug\Chess3.csproj.GenerateResource.Cache

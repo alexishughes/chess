@@ -1,0 +1,14 @@
+﻿<Window x:Class="Chess3.wndPromote"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="promote" Height="279" Width="233">
+    <Grid Height="237" Width="196">
+        <Label Content="Nominate" Height="28" HorizontalAlignment="Left" Margin="103,12,0,0" Name="lblNominate" VerticalAlignment="Top" />
+        <Canvas Height="173" HorizontalAlignment="Left" Margin="12,46,0,0" Name="canvas1" VerticalAlignment="Top" Width="173">
+            <Grid Canvas.Left="6" Canvas.Top="6" Height="80" Name="grdRook" Width="80" MouseDown="grdRook_MouseDown" />
+            <Grid Canvas.Left="86" Canvas.Top="6" Height="80" Name="grdKnight" Width="80" MouseDown="grdKnight_MouseDown" />
+            <Grid Canvas.Left="6" Canvas.Top="86" Height="80" Name="grdBishop" Width="80" MouseDown="grdBishop_MouseDown" />
+            <Grid Canvas.Left="86" Canvas.Top="86" Height="80" Name="grdQueen" Width="80" MouseDown="grdQueen_MouseDown" />
+        </Canvas>
+    </Grid>
+</Window>
